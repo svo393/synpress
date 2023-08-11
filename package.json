@@ -81,7 +81,7 @@
     "get-port": "^7.0.0",
     "node-fetch": "^2.6.1",
     "underscore": "^1.13.6",
-    "viem": "^1.5.0",
+    "viem": "1.6.0",
     "wait-on": "^7.0.1"
   },
   "devDependencies": {
